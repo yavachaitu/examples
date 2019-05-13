@@ -1,2 +1,3 @@
 < this is second file in git >
+ this aaded new feature 
 
