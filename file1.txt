@@ -1,3 +1,11 @@
 < this is second file in git >
  this aaded new feature 
+<<<<<<< Updated upstream
 
+=======
+s this
+hi 
+ 
+>iresolved 
+
+e>>>>> Stashed changes
